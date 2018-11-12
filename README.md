@@ -87,7 +87,7 @@ cv2.waitKey(0)
 `detectMultiScale` 함수 요소들의  [자세한 내용이 궁금하다면](https://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html#cascadeclassifier-detectmultiscale)
 
 Cmd에서 아래의 명령어를 입력하면 
-```shell
+```bash
 $ python helloOpenCV.py 얼굴사진.png 
 ```
 ### 얼굴 인식 예시
