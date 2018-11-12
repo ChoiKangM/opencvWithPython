@@ -1,4 +1,5 @@
-# 파이썬으로 OpenCV해보자
+# 네 얼굴은 얼굴이니?
+> 파이썬으로 OpenCV 해보자
 
 ## OpenCV란?
 > OpenCV(Open Source Computer Vision)은   
