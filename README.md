@@ -37,7 +37,7 @@ Caffe의 딥러닝 프레임워크를 지원한다.
 
 아래의 코드 실행 시 오류가 없이 ```import cv2```가 정상적으로 실행된다면  
 **설치완료**
-```python
+```bash
 $ python
 >>> import cv2
 ```
